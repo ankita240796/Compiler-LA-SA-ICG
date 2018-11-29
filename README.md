@@ -1,2 +1,3 @@
 # Compiler-LA-SA-ICG
-# Compiler-LA-SA-ICG
+
+Syntax and lexical analyzer
